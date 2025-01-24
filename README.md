@@ -1,1 +1,0 @@
-<img scr="img/site-imagem.png" alt="imagem não carregada">
